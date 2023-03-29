@@ -5,7 +5,7 @@ Currently private, release later
 
 # Games (Private)
 
-  Dino World + Holocene (Rainbow dino, all gamepass dinos, 1 shot, damage multiplier, infinite hunger stamina sleep and moisture, 1/60 research speed, etc)
+  Dino World + Holocene (Rainbow dino, all gamepasses, 1 shot, damage multiplier, infinite hunger stamina sleep and moisture, 1/60 research speed, owner/dev dinos (immortal removed them, i think), etc)
 	
   Pls Donate (Booth bot using OpenAI Apis and some free apis)
 	
