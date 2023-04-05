@@ -39,3 +39,4 @@ Currently private, release later
   
 # Universal
    Esp (highlight + drawing)
+   Aimbot (visibility check, etc)
