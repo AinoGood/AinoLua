@@ -25,7 +25,7 @@ Currently private, release later
 	
   Polybattle (ESP + Aimbot)
 	
-  Legends Re:Written (Bow aura (60 + shots per second), kill all near mobs, inf money (patched, i think), sword aura, tp to level restricted areas)
+  Legends Re:Written (Bow aura (60 + shots per second, delay added but still op), kill all near mobs, inf money (patched, i think), sword aura, tp to level restricted areas and raids)
 	
   Pressure Wash Simulator (Complete autofarm + auto rebirth)
 	
