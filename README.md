@@ -3,7 +3,7 @@
 Simple Lua Projects/Scripts
 Currently private, release later
 
-# Games (Private)
+## Games (Private)
 * Dino World + Holocene (Rainbow dino, all gamepasses, 1 shot, damage multiplier, infinite hunger stamina sleep oxygen habitat and moisture, 1/60 research speed, owner/dev dinos (immortal removed them, i think), etc)
 * Pls Donate (Booth bot using OpenAI Apis and some free apis)
 * Roblox Titanic (Inf money)	
@@ -21,6 +21,6 @@ Currently private, release later
 * Animal Simulator (autoexp, they added a delay :| )
 * More games that i have yet mentioned
 
-# Universal
+## Universal
 * Esp (highlight + drawing)
 * Aimbot (visibility check, etc)
