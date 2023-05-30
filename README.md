@@ -1,8 +1,8 @@
 # AinoLua
 
 Simple Lua Projects/Scripts
-Currently private, 
-will continue to be private until further notice
+
+Currently private, will continue to be private until further notice
 
 ## Games (Private)
 * Dino World + Holocene (Rainbow dino, all gamepasses, 1 shot, damage multiplier, infinite hunger stamina sleep oxygen habitat and moisture, 1/60 research speed, owner/dev dinos (immortal removed them, i think), etc)
