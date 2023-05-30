@@ -5,7 +5,7 @@ Simple Lua Projects/Scripts
 Currently private, will continue to be private until further notice
 
 ## Games (Private)
-* Dino World + Holocene (Rainbow dino, all gamepasses, 1 shot, damage multiplier, infinite hunger stamina sleep oxygen habitat and moisture, 1/60 research speed, owner/dev dinos (immortal removed them, i think), etc)
+* Dino World + Holocene (Rainbow dino; all gamepasses; 1 shot; damage multiplier; infinite food, stamina, sleep, oxygen, habitat, and moisture; 1/60 research speed; owner/dev dinos (immortal removed them, i think); etc)
 * Pls Donate (Booth bot using OpenAI Apis and some free apis)
 * Roblox Titanic (Inf money)	
 * World // Zero (Kill aura)
@@ -25,7 +25,3 @@ Currently private, will continue to be private until further notice
 ## Universal
 * Esp (highlight + drawing)
 * Aimbot (visibility check, etc)
-
-```lua
-for k in function() return 1 end do end
-```
